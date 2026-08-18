@@ -7,7 +7,6 @@
 💡 Interested in **Data Engineering, AI, Machine Learning & intelligent data systems**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kabbajothmane/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/othmanekt0)
 
 ---
 
